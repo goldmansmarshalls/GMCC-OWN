@@ -1,5 +1,5 @@
 /**
- * Central portfolio data — generated from Sushmita's resume (Sushmita_dasari.pdf).
+ * Central portfolio data — generated from Sai Ganesh's resume (Sai Ganesh.pdf).
  * Every fact on the site comes from this file. Update it here and the whole site follows.
  * Nothing here should be added unless it appears on the resume.
  */
@@ -29,7 +29,7 @@ export const profile = {
     srcSet: 'public/Ganesh 4.JPG',
     alt: 'Portrait of Sai Ganesh',
   },
-  interests: ['System Design', 'Cloud Computing (AWS)', 'Machine Learning'],
+  interests: ['Highways, Road Tunnels, Aqueducts, Irrigation & Power Plants'],
 };
 
 export const education = [
