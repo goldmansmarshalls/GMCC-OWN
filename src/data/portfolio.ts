@@ -27,7 +27,7 @@ export const profile = {
   portrait: {
     src: 'public/Ganesh 4.JPG',
     srcSet: 'public/sai ganesh 2.png',
-    alt: 'Portrait of Sai Ganesh',
+    alt: 'public/Ganesh 2.PNG',
   },
   interests: ['Highways, Road Tunnels, Aqueducts, Irrigation & Power Plants'],
 };
