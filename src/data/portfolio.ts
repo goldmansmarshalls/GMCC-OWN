@@ -26,7 +26,7 @@ export const profile = {
   resumePdf: '/assets/ganeshsai.pdf',
   portrait: {
     src: 'public/Ganesh 4.JPG',
-    srcSet: 'public/Ganesh 4.JPG',
+    srcSet: 'public/sai ganesh 2.png',
     alt: 'Portrait of Sai Ganesh',
   },
   interests: ['Highways, Road Tunnels, Aqueducts, Irrigation & Power Plants'],
