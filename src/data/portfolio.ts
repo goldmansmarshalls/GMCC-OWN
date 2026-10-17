@@ -25,8 +25,8 @@ export const profile = {
   },
   resumePdf: '/assets/ganeshsai.pdf',
   portrait: {
-    src: 'public/assets/sai ganesh.HEIC',
-    srcSet: 'public/assets/sai ganesh.HEIC',
+    src: 'public/Ganesh 4.JPG',
+    srcSet: 'public/Ganesh 4.JPG',
     alt: 'Portrait of Sai Ganesh',
   },
   interests: ['System Design', 'Cloud Computing (AWS)', 'Machine Learning'],
